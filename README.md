@@ -173,6 +173,6 @@ Once you start the Kafka consumer in the streaming framework, each transaction o
 **Refer PySpark code, shell scripts, HiveQL files and its related documents present in this repository.**
 
 ## Contributors
-- [Ganesh Jalakam](https://github.com/GaneshJalakam)
 - [Aprajita Srivastava](https://github.com/Aprajita34)
+- [Ganesh Jalakam](https://github.com/GaneshJalakam)
 - [Nishi Gupta](https://github.com/nishigupta21)
